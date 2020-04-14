@@ -1,0 +1,13 @@
+C:\Users\renato.lara\repositorio\Message-Right-ou-The-Messenger\Message-Right\obj\Debug\netcoreapp3.1\Message-Right.csprojAssemblyReference.cache
+C:\Users\renato.lara\repositorio\Message-Right-ou-The-Messenger\Message-Right\obj\Debug\netcoreapp3.1\Message-Right.csproj.CoreCompileInputs.cache
+C:\Users\renato.lara\repositorio\Message-Right-ou-The-Messenger\Message-Right\obj\Debug\netcoreapp3.1\Message-Right.AssemblyInfoInputs.cache
+C:\Users\renato.lara\repositorio\Message-Right-ou-The-Messenger\Message-Right\obj\Debug\netcoreapp3.1\Message-Right.AssemblyInfo.cs
+C:\Users\renato.lara\repositorio\Message-Right-ou-The-Messenger\Message-Right\bin\Debug\netcoreapp3.1\Message-Right.exe
+C:\Users\renato.lara\repositorio\Message-Right-ou-The-Messenger\Message-Right\bin\Debug\netcoreapp3.1\Message-Right.deps.json
+C:\Users\renato.lara\repositorio\Message-Right-ou-The-Messenger\Message-Right\bin\Debug\netcoreapp3.1\Message-Right.runtimeconfig.json
+C:\Users\renato.lara\repositorio\Message-Right-ou-The-Messenger\Message-Right\bin\Debug\netcoreapp3.1\Message-Right.runtimeconfig.dev.json
+C:\Users\renato.lara\repositorio\Message-Right-ou-The-Messenger\Message-Right\bin\Debug\netcoreapp3.1\Message-Right.dll
+C:\Users\renato.lara\repositorio\Message-Right-ou-The-Messenger\Message-Right\bin\Debug\netcoreapp3.1\Message-Right.pdb
+C:\Users\renato.lara\repositorio\Message-Right-ou-The-Messenger\Message-Right\obj\Debug\netcoreapp3.1\Message-Right.dll
+C:\Users\renato.lara\repositorio\Message-Right-ou-The-Messenger\Message-Right\obj\Debug\netcoreapp3.1\Message-Right.pdb
+C:\Users\renato.lara\repositorio\Message-Right-ou-The-Messenger\Message-Right\obj\Debug\netcoreapp3.1\Message-Right.genruntimeconfig.cache
